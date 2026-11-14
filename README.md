@@ -4,7 +4,11 @@ React + Vite 个人作品集网站。工业设计工程硕士在读、车辆工�
 
 包含六个项目、项目详情、软件使用截图、学习成果、实习与项目经历。保留自动轮播与滚轮控制、GSAP 动画、WebGL 背景、加载进度和响应式交互。所有网页必需的媒体与字体均随项目提供。
 
+在线作品集：https://qly-701.github.io/zuopinji/
+
 仓库：https://github.com/qly-701/zuopinji
+
+分享二维码：[PNG](https://qly-701.github.io/zuopinji/downloads/portfolio-qr.png) · [SVG](https://qly-701.github.io/zuopinji/downloads/portfolio-qr.svg)
 
 ## Windows 本地开发
 
