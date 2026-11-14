@@ -1,0 +1,638 @@
+{
+  "/assets/robot/cover.jpg": {
+    "thumb": "/assets/optimized/robot/cover-480.webp",
+    "card": "/assets/optimized/robot/cover-800.webp",
+    "full": "/assets/optimized/robot/cover-1900.webp",
+    "srcSet": "/assets/optimized/robot/cover-480.webp 480w, /assets/optimized/robot/cover-800.webp 800w, /assets/optimized/robot/cover-1200.webp 1200w, /assets/optimized/robot/cover-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1900,
+    "height": 1343
+  },
+  "/assets/drone/cover.jpg": {
+    "thumb": "/assets/optimized/drone/cover-480.webp",
+    "card": "/assets/optimized/drone/cover-800.webp",
+    "full": "/assets/optimized/drone/cover-1217.webp",
+    "srcSet": "/assets/optimized/drone/cover-480.webp 480w, /assets/optimized/drone/cover-800.webp 800w, /assets/optimized/drone/cover-1200.webp 1200w, /assets/optimized/drone/cover-1217.webp 1217w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1217,
+    "height": 917
+  },
+  "/assets/lighting/bracket-reference-zh.webp": {
+    "thumb": "/assets/optimized/lighting/bracket-reference-zh-480.webp",
+    "card": "/assets/lighting/bracket-reference-zh.webp",
+    "full": "/assets/lighting/bracket-reference-zh.webp",
+    "srcSet": "/assets/optimized/lighting/bracket-reference-zh-480.webp 480w, /assets/lighting/bracket-reference-zh.webp 1080w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1080,
+    "height": 744
+  },
+  "/assets/additional/fire-cover.jpg": {
+    "thumb": "/assets/optimized/additional/fire-cover-480.webp",
+    "card": "/assets/optimized/additional/fire-cover-800.webp",
+    "full": "/assets/optimized/additional/fire-cover-1100.webp",
+    "srcSet": "/assets/optimized/additional/fire-cover-480.webp 480w, /assets/optimized/additional/fire-cover-800.webp 800w, /assets/optimized/additional/fire-cover-1100.webp 1100w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1100,
+    "height": 1132
+  },
+  "/assets/additional/page-02.jpg": {
+    "thumb": "/assets/optimized/additional/page-02-480.webp",
+    "card": "/assets/optimized/additional/page-02-800.webp",
+    "full": "/assets/optimized/additional/page-02-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-02-480.webp 480w, /assets/optimized/additional/page-02-800.webp 800w, /assets/optimized/additional/page-02-1200.webp 1200w, /assets/optimized/additional/page-02-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-03.jpg": {
+    "thumb": "/assets/optimized/additional/page-03-480.webp",
+    "card": "/assets/optimized/additional/page-03-800.webp",
+    "full": "/assets/optimized/additional/page-03-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-03-480.webp 480w, /assets/optimized/additional/page-03-800.webp 800w, /assets/optimized/additional/page-03-1200.webp 1200w, /assets/optimized/additional/page-03-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-04.jpg": {
+    "thumb": "/assets/optimized/additional/page-04-480.webp",
+    "card": "/assets/optimized/additional/page-04-800.webp",
+    "full": "/assets/optimized/additional/page-04-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-04-480.webp 480w, /assets/optimized/additional/page-04-800.webp 800w, /assets/optimized/additional/page-04-1200.webp 1200w, /assets/optimized/additional/page-04-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-05.jpg": {
+    "thumb": "/assets/optimized/additional/page-05-480.webp",
+    "card": "/assets/optimized/additional/page-05-800.webp",
+    "full": "/assets/optimized/additional/page-05-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-05-480.webp 480w, /assets/optimized/additional/page-05-800.webp 800w, /assets/optimized/additional/page-05-1200.webp 1200w, /assets/optimized/additional/page-05-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/silver-cover.jpg": {
+    "thumb": "/assets/optimized/additional/silver-cover-480.webp",
+    "card": "/assets/optimized/additional/silver-cover-800.webp",
+    "full": "/assets/optimized/additional/silver-cover-1180.webp",
+    "srcSet": "/assets/optimized/additional/silver-cover-480.webp 480w, /assets/optimized/additional/silver-cover-800.webp 800w, /assets/optimized/additional/silver-cover-1180.webp 1180w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1180,
+    "height": 1132
+  },
+  "/assets/additional/page-06.jpg": {
+    "thumb": "/assets/optimized/additional/page-06-480.webp",
+    "card": "/assets/optimized/additional/page-06-800.webp",
+    "full": "/assets/optimized/additional/page-06-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-06-480.webp 480w, /assets/optimized/additional/page-06-800.webp 800w, /assets/optimized/additional/page-06-1200.webp 1200w, /assets/optimized/additional/page-06-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-07.jpg": {
+    "thumb": "/assets/optimized/additional/page-07-480.webp",
+    "card": "/assets/optimized/additional/page-07-800.webp",
+    "full": "/assets/optimized/additional/page-07-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-07-480.webp 480w, /assets/optimized/additional/page-07-800.webp 800w, /assets/optimized/additional/page-07-1200.webp 1200w, /assets/optimized/additional/page-07-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-08.jpg": {
+    "thumb": "/assets/optimized/additional/page-08-480.webp",
+    "card": "/assets/optimized/additional/page-08-800.webp",
+    "full": "/assets/optimized/additional/page-08-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-08-480.webp 480w, /assets/optimized/additional/page-08-800.webp 800w, /assets/optimized/additional/page-08-1200.webp 1200w, /assets/optimized/additional/page-08-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-09.jpg": {
+    "thumb": "/assets/optimized/additional/page-09-480.webp",
+    "card": "/assets/optimized/additional/page-09-800.webp",
+    "full": "/assets/optimized/additional/page-09-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-09-480.webp 480w, /assets/optimized/additional/page-09-800.webp 800w, /assets/optimized/additional/page-09-1200.webp 1200w, /assets/optimized/additional/page-09-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-10.jpg": {
+    "thumb": "/assets/optimized/additional/page-10-480.webp",
+    "card": "/assets/optimized/additional/page-10-800.webp",
+    "full": "/assets/optimized/additional/page-10-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-10-480.webp 480w, /assets/optimized/additional/page-10-800.webp 800w, /assets/optimized/additional/page-10-1200.webp 1200w, /assets/optimized/additional/page-10-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-11.jpg": {
+    "thumb": "/assets/optimized/additional/page-11-480.webp",
+    "card": "/assets/optimized/additional/page-11-800.webp",
+    "full": "/assets/optimized/additional/page-11-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-11-480.webp 480w, /assets/optimized/additional/page-11-800.webp 800w, /assets/optimized/additional/page-11-1200.webp 1200w, /assets/optimized/additional/page-11-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-12.jpg": {
+    "thumb": "/assets/optimized/additional/page-12-480.webp",
+    "card": "/assets/optimized/additional/page-12-800.webp",
+    "full": "/assets/optimized/additional/page-12-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-12-480.webp 480w, /assets/optimized/additional/page-12-800.webp 800w, /assets/optimized/additional/page-12-1200.webp 1200w, /assets/optimized/additional/page-12-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/bamboo-cover.jpg": {
+    "thumb": "/assets/optimized/additional/bamboo-cover-480.webp",
+    "card": "/assets/optimized/additional/bamboo-cover-680.webp",
+    "full": "/assets/optimized/additional/bamboo-cover-680.webp",
+    "srcSet": "/assets/optimized/additional/bamboo-cover-480.webp 480w, /assets/optimized/additional/bamboo-cover-680.webp 680w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 680,
+    "height": 1132
+  },
+  "/assets/additional/page-13.jpg": {
+    "thumb": "/assets/optimized/additional/page-13-480.webp",
+    "card": "/assets/optimized/additional/page-13-800.webp",
+    "full": "/assets/optimized/additional/page-13-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-13-480.webp 480w, /assets/optimized/additional/page-13-800.webp 800w, /assets/optimized/additional/page-13-1200.webp 1200w, /assets/optimized/additional/page-13-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-14.jpg": {
+    "thumb": "/assets/optimized/additional/page-14-480.webp",
+    "card": "/assets/optimized/additional/page-14-800.webp",
+    "full": "/assets/optimized/additional/page-14-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-14-480.webp 480w, /assets/optimized/additional/page-14-800.webp 800w, /assets/optimized/additional/page-14-1200.webp 1200w, /assets/optimized/additional/page-14-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/additional/page-15.jpg": {
+    "thumb": "/assets/optimized/additional/page-15-480.webp",
+    "card": "/assets/optimized/additional/page-15-800.webp",
+    "full": "/assets/optimized/additional/page-15-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-15-480.webp 480w, /assets/optimized/additional/page-15-800.webp 800w, /assets/optimized/additional/page-15-1200.webp 1200w, /assets/optimized/additional/page-15-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 1132
+  },
+  "/assets/robot/rear.jpg": {
+    "thumb": "/assets/optimized/robot/rear-480.webp",
+    "card": "/assets/optimized/robot/rear-800.webp",
+    "full": "/assets/optimized/robot/rear-1900.webp",
+    "srcSet": "/assets/optimized/robot/rear-480.webp 480w, /assets/optimized/robot/rear-800.webp 800w, /assets/optimized/robot/rear-1200.webp 1200w, /assets/optimized/robot/rear-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1900,
+    "height": 1343
+  },
+  "/assets/robot/platform.jpg": {
+    "thumb": "/assets/optimized/robot/platform-480.webp",
+    "card": "/assets/optimized/robot/platform-800.webp",
+    "full": "/assets/optimized/robot/platform-1900.webp",
+    "srcSet": "/assets/optimized/robot/platform-480.webp 480w, /assets/optimized/robot/platform-800.webp 800w, /assets/optimized/robot/platform-1200.webp 1200w, /assets/optimized/robot/platform-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1900,
+    "height": 1343
+  },
+  "/assets/robot/chassis.jpg": {
+    "thumb": "/assets/optimized/robot/chassis-480.webp",
+    "card": "/assets/optimized/robot/chassis-800.webp",
+    "full": "/assets/optimized/robot/chassis-1900.webp",
+    "srcSet": "/assets/optimized/robot/chassis-480.webp 480w, /assets/optimized/robot/chassis-800.webp 800w, /assets/optimized/robot/chassis-1200.webp 1200w, /assets/optimized/robot/chassis-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1900,
+    "height": 1343
+  },
+  "/assets/robot/cargo.jpg": {
+    "thumb": "/assets/optimized/robot/cargo-480.webp",
+    "card": "/assets/optimized/robot/cargo-800.webp",
+    "full": "/assets/optimized/robot/cargo-1900.webp",
+    "srcSet": "/assets/optimized/robot/cargo-480.webp 480w, /assets/optimized/robot/cargo-800.webp 800w, /assets/optimized/robot/cargo-1200.webp 1200w, /assets/optimized/robot/cargo-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1900,
+    "height": 1343
+  },
+  "/assets/drone/principle.jpg": {
+    "thumb": "/assets/optimized/drone/principle-480.webp",
+    "card": "/assets/optimized/drone/principle-800.webp",
+    "full": "/assets/optimized/drone/principle-1831.webp",
+    "srcSet": "/assets/optimized/drone/principle-480.webp 480w, /assets/optimized/drone/principle-800.webp 800w, /assets/optimized/drone/principle-1200.webp 1200w, /assets/optimized/drone/principle-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1831,
+    "height": 979
+  },
+  "/assets/drone/assembly.jpg": {
+    "thumb": "/assets/optimized/drone/assembly-480.webp",
+    "card": "/assets/optimized/drone/assembly-800.webp",
+    "full": "/assets/optimized/drone/assembly-915.webp",
+    "srcSet": "/assets/optimized/drone/assembly-480.webp 480w, /assets/optimized/drone/assembly-800.webp 800w, /assets/optimized/drone/assembly-915.webp 915w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 915,
+    "height": 490
+  },
+  "/assets/drone/drawings.jpg": {
+    "thumb": "/assets/optimized/drone/drawings-480.webp",
+    "card": "/assets/optimized/drone/drawings-800.webp",
+    "full": "/assets/optimized/drone/drawings-1831.webp",
+    "srcSet": "/assets/optimized/drone/drawings-480.webp 480w, /assets/optimized/drone/drawings-800.webp 800w, /assets/optimized/drone/drawings-1200.webp 1200w, /assets/optimized/drone/drawings-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1831,
+    "height": 979
+  },
+  "/assets/drone/analysis.jpg": {
+    "thumb": "/assets/optimized/drone/analysis-480.webp",
+    "card": "/assets/optimized/drone/analysis-800.webp",
+    "full": "/assets/optimized/drone/analysis-915.webp",
+    "srcSet": "/assets/optimized/drone/analysis-480.webp 480w, /assets/optimized/drone/analysis-800.webp 800w, /assets/optimized/drone/analysis-915.webp 915w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 915,
+    "height": 489
+  },
+  "/assets/drone/soft-grip.jpg": {
+    "thumb": "/assets/optimized/drone/soft-grip-480.webp",
+    "card": "/assets/optimized/drone/soft-grip-800.webp",
+    "full": "/assets/optimized/drone/soft-grip-1831.webp",
+    "srcSet": "/assets/optimized/drone/soft-grip-480.webp 480w, /assets/optimized/drone/soft-grip-800.webp 800w, /assets/optimized/drone/soft-grip-1200.webp 1200w, /assets/optimized/drone/soft-grip-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1831,
+    "height": 979
+  },
+  "/assets/interstellar.jpg": {
+    "thumb": "/assets/optimized/interstellar-800.webp",
+    "card": "/assets/optimized/interstellar-800.webp",
+    "full": "/assets/optimized/interstellar-1600.webp",
+    "srcSet": "/assets/optimized/interstellar-800.webp 800w, /assets/optimized/interstellar-1200.webp 1200w, /assets/optimized/interstellar-1600.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "100vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1600,
+    "height": 900
+  },
+  "/assets/portrait.jpg": {
+    "thumb": "/assets/optimized/portrait-320.webp",
+    "card": "/assets/optimized/portrait-800.webp",
+    "full": "/assets/optimized/portrait-814.webp",
+    "srcSet": "/assets/optimized/portrait-320.webp 320w, /assets/optimized/portrait-480.webp 480w, /assets/optimized/portrait-800.webp 800w, /assets/optimized/portrait-814.webp 814w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 814,
+    "height": 1086
+  },
+  "/assets/software/zh-creo.webp": {
+    "thumb": "/assets/optimized/software/zh-creo-480.webp",
+    "card": "/assets/optimized/software/zh-creo-800.webp",
+    "full": "/assets/software/zh-creo.webp",
+    "srcSet": "/assets/optimized/software/zh-creo-480.webp 480w, /assets/optimized/software/zh-creo-800.webp 800w, /assets/optimized/software/zh-creo-1200.webp 1200w, /assets/software/zh-creo.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1920,
+    "height": 1080
+  },
+  "/assets/software/zh-catia.webp": {
+    "thumb": "/assets/optimized/software/zh-catia-480.webp",
+    "card": "/assets/optimized/software/zh-catia-800.webp",
+    "full": "/assets/software/zh-catia.webp",
+    "srcSet": "/assets/optimized/software/zh-catia-480.webp 480w, /assets/optimized/software/zh-catia-800.webp 800w, /assets/software/zh-catia.webp 1912w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1912,
+    "height": 1080
+  },
+  "/assets/software/clean-zh-nx.webp": {
+    "thumb": "/assets/optimized/software/clean-zh-nx-480.webp",
+    "card": "/assets/optimized/software/clean-zh-nx-800.webp",
+    "full": "/assets/software/clean-zh-nx.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-nx-480.webp 480w, /assets/optimized/software/clean-zh-nx-800.webp 800w, /assets/software/clean-zh-nx.webp 1159w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1159,
+    "height": 954
+  },
+  "/assets/software/clean-zh-matlab.webp": {
+    "thumb": "/assets/optimized/software/clean-zh-matlab-480.webp",
+    "card": "/assets/optimized/software/clean-zh-matlab-800.webp",
+    "full": "/assets/software/clean-zh-matlab.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-matlab-480.webp 480w, /assets/optimized/software/clean-zh-matlab-800.webp 800w, /assets/optimized/software/clean-zh-matlab-1200.webp 1200w, /assets/software/clean-zh-matlab.webp 1780w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1780,
+    "height": 1366
+  },
+  "/assets/software/clean-zh-origin.webp": {
+    "thumb": "/assets/optimized/software/clean-zh-origin-480.webp",
+    "card": "/assets/software/clean-zh-origin.webp",
+    "full": "/assets/software/clean-zh-origin.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-origin-480.webp 480w, /assets/software/clean-zh-origin.webp 680w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 680,
+    "height": 459
+  },
+  "/assets/software/clean-zh-python.webp": {
+    "thumb": "/assets/optimized/software/clean-zh-python-480.webp",
+    "card": "/assets/optimized/software/clean-zh-python-800.webp",
+    "full": "/assets/software/clean-zh-python.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-python-480.webp 480w, /assets/optimized/software/clean-zh-python-800.webp 800w, /assets/software/clean-zh-python.webp 1205w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1205,
+    "height": 799
+  },
+  "/assets/software/zh-html.webp": {
+    "thumb": "/assets/optimized/software/zh-html-480.webp",
+    "card": "/assets/optimized/software/zh-html-800.webp",
+    "full": "/assets/software/zh-html.webp",
+    "srcSet": "/assets/optimized/software/zh-html-480.webp 480w, /assets/optimized/software/zh-html-800.webp 800w, /assets/optimized/software/zh-html-1200.webp 1200w, /assets/software/zh-html.webp 1800w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1800,
+    "height": 943
+  },
+  "/assets/software/zh-capcut.webp": {
+    "thumb": "/assets/optimized/software/zh-capcut-480.webp",
+    "card": "/assets/optimized/software/zh-capcut-800.webp",
+    "full": "/assets/software/zh-capcut.webp",
+    "srcSet": "/assets/optimized/software/zh-capcut-480.webp 480w, /assets/optimized/software/zh-capcut-800.webp 800w, /assets/optimized/software/zh-capcut-1200.webp 1200w, /assets/software/zh-capcut.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1920,
+    "height": 1048
+  },
+  "/assets/software/zh-visio.webp": {
+    "thumb": "/assets/optimized/software/zh-visio-480.webp",
+    "card": "/assets/optimized/software/zh-visio-800.webp",
+    "full": "/assets/software/zh-visio.webp",
+    "srcSet": "/assets/optimized/software/zh-visio-480.webp 480w, /assets/optimized/software/zh-visio-800.webp 800w, /assets/optimized/software/zh-visio-1200.webp 1200w, /assets/software/zh-visio.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1920,
+    "height": 1080
+  },
+  "/assets/software/zh-office.webp": {
+    "thumb": "/assets/optimized/software/zh-office-480.webp",
+    "card": "/assets/optimized/software/zh-office-800.webp",
+    "full": "/assets/software/zh-office.webp",
+    "srcSet": "/assets/optimized/software/zh-office-480.webp 480w, /assets/optimized/software/zh-office-800.webp 800w, /assets/optimized/software/zh-office-1200.webp 1200w, /assets/software/zh-office.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1600,
+    "height": 860
+  },
+  "/assets/software/zh-photoshop.webp": {
+    "thumb": "/assets/optimized/software/zh-photoshop-480.webp",
+    "card": "/assets/optimized/software/zh-photoshop-800.webp",
+    "full": "/assets/software/zh-photoshop.webp",
+    "srcSet": "/assets/optimized/software/zh-photoshop-480.webp 480w, /assets/optimized/software/zh-photoshop-800.webp 800w, /assets/optimized/software/zh-photoshop-1200.webp 1200w, /assets/software/zh-photoshop.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 2000,
+    "height": 926
+  },
+  "/assets/software/zh-solidworks.webp": {
+    "thumb": "/assets/optimized/software/zh-solidworks-480.webp",
+    "card": "/assets/optimized/software/zh-solidworks-800.webp",
+    "full": "/assets/software/zh-solidworks.webp",
+    "srcSet": "/assets/optimized/software/zh-solidworks-480.webp 480w, /assets/optimized/software/zh-solidworks-800.webp 800w, /assets/optimized/software/zh-solidworks-1200.webp 1200w, /assets/software/zh-solidworks.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1920,
+    "height": 1080
+  },
+  "/assets/software/zh-autocad.webp": {
+    "thumb": "/assets/optimized/software/zh-autocad-480.webp",
+    "card": "/assets/optimized/software/zh-autocad-800.webp",
+    "full": "/assets/software/zh-autocad.webp",
+    "srcSet": "/assets/optimized/software/zh-autocad-480.webp 480w, /assets/optimized/software/zh-autocad-800.webp 800w, /assets/software/zh-autocad.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 1600,
+    "height": 900
+  },
+  "/assets/software/real-user-ansys.webp": {
+    "thumb": "/assets/software/real-user-ansys.webp",
+    "card": "/assets/software/real-user-ansys.webp",
+    "full": "/assets/software/real-user-ansys.webp",
+    "srcSet": "/assets/software/real-user-ansys.webp 382w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "width": 382,
+    "height": 263
+  },
+  "/assets/interstellar-loop.mp4": {
+    "src": "/assets/optimized/interstellar-loop-1280-crf28.mp4",
+    "width": 1280,
+    "height": 720,
+    "poster": "/assets/optimized/interstellar-1600.webp"
+  }
+}

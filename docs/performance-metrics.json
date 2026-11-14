@@ -1,0 +1,66 @@
+{
+  "baselineCommit": "09e261a1cab2b2a93cb255e251f05fe7d55298d5",
+  "date": "2026-11-14",
+  "mainScript": {
+    "before": {
+      "file": "index-7a812ZpU.js",
+      "bytes": 494927,
+      "gzipBytes": 170664
+    },
+    "after": {
+      "file": "index-DIFHbLlB.js",
+      "bytes": 445223,
+      "gzipBytes": 144496
+    }
+  },
+  "media": {
+    "coverOriginalBytes": 803585,
+    "coverThumbBytes": 95670,
+    "coverCardBytes": 190518,
+    "videoOriginalBytes": 2261672,
+    "videoSelectedBytes": 583775,
+    "firstScreenOriginalBytes": 3162943,
+    "firstScreenThumbBytes": 746989,
+    "firstScreenCardBytes": 841837,
+    "allReferencedImagesOriginalBytes": 7800742,
+    "allReferencedImagesCardBytes": 1675592,
+    "coverThumbReductionPercent": 88.09,
+    "coverCardReductionPercent": 76.29,
+    "videoReductionPercent": 74.19,
+    "firstScreenThumbReductionPercent": 76.38,
+    "firstScreenCardReductionPercent": 73.38,
+    "detailOnlyOriginalBytes": 5627572,
+    "detailOnlyFullBytes": 3072926
+  },
+  "fonts": {
+    "beforeBytes": 730904,
+    "afterBytes": 247544
+  },
+  "loadingGate": {
+    "beforeTimeoutMs": 9000,
+    "beforeExitMs": 950,
+    "afterTimeoutMs": 1500,
+    "afterExitMs": 650,
+    "blockingResources": [
+      "hero-poster"
+    ],
+    "excludedFromGate": [
+      "video",
+      "fonts",
+      "project-images"
+    ]
+  },
+  "webgl": {
+    "maxFps": 30,
+    "maxDpr": 1,
+    "lazy": true,
+    "backgroundAndOffscreenPaused": true
+  },
+  "verification": {
+    "functional": true,
+    "realGsapDom": true,
+    "performanceLifecycleDom": true,
+    "webglLifecycleMock": true,
+    "realBrowserGpuAndLcp": false
+  }
+}

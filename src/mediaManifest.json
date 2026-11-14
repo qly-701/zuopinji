@@ -1,0 +1,2048 @@
+{
+  "/assets/robot/cover.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/robot/cover-480.webp",
+    "card": "/assets/optimized/robot/cover-800.webp",
+    "full": "/assets/optimized/robot/cover-1900.webp",
+    "srcSet": "/assets/optimized/robot/cover-480.webp 480w, /assets/optimized/robot/cover-800.webp 800w, /assets/optimized/robot/cover-1200.webp 1200w, /assets/optimized/robot/cover-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1900,
+      "height": 1343
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/robot/cover-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 6966
+      },
+      {
+        "src": "/assets/optimized/robot/cover-800.webp",
+        "width": 800,
+        "height": 565,
+        "bytes": 13674
+      },
+      {
+        "src": "/assets/optimized/robot/cover-1200.webp",
+        "width": 1200,
+        "height": 848,
+        "bytes": 24102
+      },
+      {
+        "src": "/assets/optimized/robot/cover-1900.webp",
+        "width": 1900,
+        "height": 1343,
+        "bytes": 45936
+      }
+    ],
+    "sourceBytes": 120800,
+    "roles": [
+      "project-cover",
+      "project-detail"
+    ]
+  },
+  "/assets/drone/cover.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/cover-480.webp",
+    "card": "/assets/optimized/drone/cover-800.webp",
+    "full": "/assets/optimized/drone/cover-1217.webp",
+    "srcSet": "/assets/optimized/drone/cover-480.webp 480w, /assets/optimized/drone/cover-800.webp 800w, /assets/optimized/drone/cover-1200.webp 1200w, /assets/optimized/drone/cover-1217.webp 1217w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1217,
+      "height": 917
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/cover-480.webp",
+        "width": 480,
+        "height": 362,
+        "bytes": 18386
+      },
+      {
+        "src": "/assets/optimized/drone/cover-800.webp",
+        "width": 800,
+        "height": 603,
+        "bytes": 38054
+      },
+      {
+        "src": "/assets/optimized/drone/cover-1200.webp",
+        "width": 1200,
+        "height": 904,
+        "bytes": 61570
+      },
+      {
+        "src": "/assets/optimized/drone/cover-1217.webp",
+        "width": 1217,
+        "height": 917,
+        "bytes": 63550
+      }
+    ],
+    "sourceBytes": 178205,
+    "roles": [
+      "project-cover"
+    ]
+  },
+  "/assets/lighting/bracket-reference-zh.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/lighting/bracket-reference-zh-480.webp",
+    "card": "/assets/lighting/bracket-reference-zh.webp",
+    "full": "/assets/lighting/bracket-reference-zh.webp",
+    "srcSet": "/assets/optimized/lighting/bracket-reference-zh-480.webp 480w, /assets/lighting/bracket-reference-zh.webp 1080w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1080,
+      "height": 744
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/lighting/bracket-reference-zh-480.webp",
+        "width": 480,
+        "height": 331,
+        "bytes": 17528
+      },
+      {
+        "src": "/assets/lighting/bracket-reference-zh.webp",
+        "width": 1080,
+        "height": 744,
+        "bytes": 31976
+      }
+    ],
+    "sourceBytes": 31976,
+    "roles": [
+      "project-cover"
+    ]
+  },
+  "/assets/additional/fire-cover.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/fire-cover-480.webp",
+    "card": "/assets/optimized/additional/fire-cover-800.webp",
+    "full": "/assets/optimized/additional/fire-cover-1100.webp",
+    "srcSet": "/assets/optimized/additional/fire-cover-480.webp 480w, /assets/optimized/additional/fire-cover-800.webp 800w, /assets/optimized/additional/fire-cover-1100.webp 1100w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1100,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/fire-cover-480.webp",
+        "width": 480,
+        "height": 494,
+        "bytes": 13286
+      },
+      {
+        "src": "/assets/optimized/additional/fire-cover-800.webp",
+        "width": 800,
+        "height": 823,
+        "bytes": 27990
+      },
+      {
+        "src": "/assets/optimized/additional/fire-cover-1100.webp",
+        "width": 1100,
+        "height": 1132,
+        "bytes": 52324
+      }
+    ],
+    "sourceBytes": 203702,
+    "roles": [
+      "project-cover"
+    ]
+  },
+  "/assets/additional/page-02.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-02-480.webp",
+    "card": "/assets/optimized/additional/page-02-800.webp",
+    "full": "/assets/optimized/additional/page-02-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-02-480.webp 480w, /assets/optimized/additional/page-02-800.webp 800w, /assets/optimized/additional/page-02-1200.webp 1200w, /assets/optimized/additional/page-02-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-02-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 13230
+      },
+      {
+        "src": "/assets/optimized/additional/page-02-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 29266
+      },
+      {
+        "src": "/assets/optimized/additional/page-02-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 54334
+      },
+      {
+        "src": "/assets/optimized/additional/page-02-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 129628
+      }
+    ],
+    "sourceBytes": 274569,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-03.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-03-480.webp",
+    "card": "/assets/optimized/additional/page-03-800.webp",
+    "full": "/assets/optimized/additional/page-03-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-03-480.webp 480w, /assets/optimized/additional/page-03-800.webp 800w, /assets/optimized/additional/page-03-1200.webp 1200w, /assets/optimized/additional/page-03-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-03-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 19046
+      },
+      {
+        "src": "/assets/optimized/additional/page-03-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 41650
+      },
+      {
+        "src": "/assets/optimized/additional/page-03-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 76530
+      },
+      {
+        "src": "/assets/optimized/additional/page-03-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 182838
+      }
+    ],
+    "sourceBytes": 306039,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-04.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-04-480.webp",
+    "card": "/assets/optimized/additional/page-04-800.webp",
+    "full": "/assets/optimized/additional/page-04-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-04-480.webp 480w, /assets/optimized/additional/page-04-800.webp 800w, /assets/optimized/additional/page-04-1200.webp 1200w, /assets/optimized/additional/page-04-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-04-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 19354
+      },
+      {
+        "src": "/assets/optimized/additional/page-04-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 41008
+      },
+      {
+        "src": "/assets/optimized/additional/page-04-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 77730
+      },
+      {
+        "src": "/assets/optimized/additional/page-04-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 178416
+      }
+    ],
+    "sourceBytes": 316952,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-05.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-05-480.webp",
+    "card": "/assets/optimized/additional/page-05-800.webp",
+    "full": "/assets/optimized/additional/page-05-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-05-480.webp 480w, /assets/optimized/additional/page-05-800.webp 800w, /assets/optimized/additional/page-05-1200.webp 1200w, /assets/optimized/additional/page-05-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-05-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 26640
+      },
+      {
+        "src": "/assets/optimized/additional/page-05-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 55752
+      },
+      {
+        "src": "/assets/optimized/additional/page-05-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 98438
+      },
+      {
+        "src": "/assets/optimized/additional/page-05-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 206654
+      }
+    ],
+    "sourceBytes": 356544,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/silver-cover.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/silver-cover-480.webp",
+    "card": "/assets/optimized/additional/silver-cover-800.webp",
+    "full": "/assets/optimized/additional/silver-cover-1180.webp",
+    "srcSet": "/assets/optimized/additional/silver-cover-480.webp 480w, /assets/optimized/additional/silver-cover-800.webp 800w, /assets/optimized/additional/silver-cover-1180.webp 1180w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1180,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/silver-cover-480.webp",
+        "width": 480,
+        "height": 460,
+        "bytes": 18870
+      },
+      {
+        "src": "/assets/optimized/additional/silver-cover-800.webp",
+        "width": 800,
+        "height": 767,
+        "bytes": 41802
+      },
+      {
+        "src": "/assets/optimized/additional/silver-cover-1180.webp",
+        "width": 1180,
+        "height": 1132,
+        "bytes": 87900
+      }
+    ],
+    "sourceBytes": 167532,
+    "roles": [
+      "project-cover"
+    ]
+  },
+  "/assets/additional/page-06.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-06-480.webp",
+    "card": "/assets/optimized/additional/page-06-800.webp",
+    "full": "/assets/optimized/additional/page-06-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-06-480.webp 480w, /assets/optimized/additional/page-06-800.webp 800w, /assets/optimized/additional/page-06-1200.webp 1200w, /assets/optimized/additional/page-06-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-06-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 13462
+      },
+      {
+        "src": "/assets/optimized/additional/page-06-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 31228
+      },
+      {
+        "src": "/assets/optimized/additional/page-06-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 61122
+      },
+      {
+        "src": "/assets/optimized/additional/page-06-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 145838
+      }
+    ],
+    "sourceBytes": 236656,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-07.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-07-480.webp",
+    "card": "/assets/optimized/additional/page-07-800.webp",
+    "full": "/assets/optimized/additional/page-07-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-07-480.webp 480w, /assets/optimized/additional/page-07-800.webp 800w, /assets/optimized/additional/page-07-1200.webp 1200w, /assets/optimized/additional/page-07-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-07-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 16464
+      },
+      {
+        "src": "/assets/optimized/additional/page-07-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 36440
+      },
+      {
+        "src": "/assets/optimized/additional/page-07-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 66800
+      },
+      {
+        "src": "/assets/optimized/additional/page-07-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 146394
+      }
+    ],
+    "sourceBytes": 250952,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-08.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-08-480.webp",
+    "card": "/assets/optimized/additional/page-08-800.webp",
+    "full": "/assets/optimized/additional/page-08-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-08-480.webp 480w, /assets/optimized/additional/page-08-800.webp 800w, /assets/optimized/additional/page-08-1200.webp 1200w, /assets/optimized/additional/page-08-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-08-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 25048
+      },
+      {
+        "src": "/assets/optimized/additional/page-08-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 57714
+      },
+      {
+        "src": "/assets/optimized/additional/page-08-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 112550
+      },
+      {
+        "src": "/assets/optimized/additional/page-08-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 251750
+      }
+    ],
+    "sourceBytes": 374136,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-09.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-09-480.webp",
+    "card": "/assets/optimized/additional/page-09-800.webp",
+    "full": "/assets/optimized/additional/page-09-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-09-480.webp 480w, /assets/optimized/additional/page-09-800.webp 800w, /assets/optimized/additional/page-09-1200.webp 1200w, /assets/optimized/additional/page-09-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-09-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 19526
+      },
+      {
+        "src": "/assets/optimized/additional/page-09-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 42304
+      },
+      {
+        "src": "/assets/optimized/additional/page-09-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 78032
+      },
+      {
+        "src": "/assets/optimized/additional/page-09-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 177206
+      }
+    ],
+    "sourceBytes": 295182,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-10.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-10-480.webp",
+    "card": "/assets/optimized/additional/page-10-800.webp",
+    "full": "/assets/optimized/additional/page-10-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-10-480.webp 480w, /assets/optimized/additional/page-10-800.webp 800w, /assets/optimized/additional/page-10-1200.webp 1200w, /assets/optimized/additional/page-10-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-10-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 17718
+      },
+      {
+        "src": "/assets/optimized/additional/page-10-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 37402
+      },
+      {
+        "src": "/assets/optimized/additional/page-10-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 68908
+      },
+      {
+        "src": "/assets/optimized/additional/page-10-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 167986
+      }
+    ],
+    "sourceBytes": 280853,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-11.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-11-480.webp",
+    "card": "/assets/optimized/additional/page-11-800.webp",
+    "full": "/assets/optimized/additional/page-11-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-11-480.webp 480w, /assets/optimized/additional/page-11-800.webp 800w, /assets/optimized/additional/page-11-1200.webp 1200w, /assets/optimized/additional/page-11-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-11-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 17296
+      },
+      {
+        "src": "/assets/optimized/additional/page-11-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 35842
+      },
+      {
+        "src": "/assets/optimized/additional/page-11-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 64430
+      },
+      {
+        "src": "/assets/optimized/additional/page-11-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 148460
+      }
+    ],
+    "sourceBytes": 264046,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-12.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-12-480.webp",
+    "card": "/assets/optimized/additional/page-12-800.webp",
+    "full": "/assets/optimized/additional/page-12-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-12-480.webp 480w, /assets/optimized/additional/page-12-800.webp 800w, /assets/optimized/additional/page-12-1200.webp 1200w, /assets/optimized/additional/page-12-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-12-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 15374
+      },
+      {
+        "src": "/assets/optimized/additional/page-12-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 31088
+      },
+      {
+        "src": "/assets/optimized/additional/page-12-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 58808
+      },
+      {
+        "src": "/assets/optimized/additional/page-12-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 151548
+      }
+    ],
+    "sourceBytes": 281089,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/bamboo-cover.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/bamboo-cover-480.webp",
+    "card": "/assets/optimized/additional/bamboo-cover-680.webp",
+    "full": "/assets/optimized/additional/bamboo-cover-680.webp",
+    "srcSet": "/assets/optimized/additional/bamboo-cover-480.webp 480w, /assets/optimized/additional/bamboo-cover-680.webp 680w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 680,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/bamboo-cover-480.webp",
+        "width": 480,
+        "height": 799,
+        "bytes": 20634
+      },
+      {
+        "src": "/assets/optimized/additional/bamboo-cover-680.webp",
+        "width": 680,
+        "height": 1132,
+        "bytes": 37022
+      }
+    ],
+    "sourceBytes": 101370,
+    "roles": [
+      "project-cover"
+    ]
+  },
+  "/assets/additional/page-13.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-13-480.webp",
+    "card": "/assets/optimized/additional/page-13-800.webp",
+    "full": "/assets/optimized/additional/page-13-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-13-480.webp 480w, /assets/optimized/additional/page-13-800.webp 800w, /assets/optimized/additional/page-13-1200.webp 1200w, /assets/optimized/additional/page-13-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-13-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 12910
+      },
+      {
+        "src": "/assets/optimized/additional/page-13-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 29748
+      },
+      {
+        "src": "/assets/optimized/additional/page-13-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 56872
+      },
+      {
+        "src": "/assets/optimized/additional/page-13-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 125698
+      }
+    ],
+    "sourceBytes": 243019,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-14.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-14-480.webp",
+    "card": "/assets/optimized/additional/page-14-800.webp",
+    "full": "/assets/optimized/additional/page-14-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-14-480.webp 480w, /assets/optimized/additional/page-14-800.webp 800w, /assets/optimized/additional/page-14-1200.webp 1200w, /assets/optimized/additional/page-14-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-14-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 24912
+      },
+      {
+        "src": "/assets/optimized/additional/page-14-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 57528
+      },
+      {
+        "src": "/assets/optimized/additional/page-14-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 108226
+      },
+      {
+        "src": "/assets/optimized/additional/page-14-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 222326
+      }
+    ],
+    "sourceBytes": 370587,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/additional/page-15.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/additional/page-15-480.webp",
+    "card": "/assets/optimized/additional/page-15-800.webp",
+    "full": "/assets/optimized/additional/page-15-2000.webp",
+    "srcSet": "/assets/optimized/additional/page-15-480.webp 480w, /assets/optimized/additional/page-15-800.webp 800w, /assets/optimized/additional/page-15-1200.webp 1200w, /assets/optimized/additional/page-15-2000.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 1132
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/additional/page-15-480.webp",
+        "width": 480,
+        "height": 272,
+        "bytes": 15156
+      },
+      {
+        "src": "/assets/optimized/additional/page-15-800.webp",
+        "width": 800,
+        "height": 453,
+        "bytes": 34166
+      },
+      {
+        "src": "/assets/optimized/additional/page-15-1200.webp",
+        "width": 1200,
+        "height": 679,
+        "bytes": 64410
+      },
+      {
+        "src": "/assets/optimized/additional/page-15-2000.webp",
+        "width": 2000,
+        "height": 1132,
+        "bytes": 153350
+      }
+    ],
+    "sourceBytes": 296105,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/robot/rear.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/robot/rear-480.webp",
+    "card": "/assets/optimized/robot/rear-800.webp",
+    "full": "/assets/optimized/robot/rear-1900.webp",
+    "srcSet": "/assets/optimized/robot/rear-480.webp 480w, /assets/optimized/robot/rear-800.webp 800w, /assets/optimized/robot/rear-1200.webp 1200w, /assets/optimized/robot/rear-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1900,
+      "height": 1343
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/robot/rear-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 6856
+      },
+      {
+        "src": "/assets/optimized/robot/rear-800.webp",
+        "width": 800,
+        "height": 565,
+        "bytes": 13152
+      },
+      {
+        "src": "/assets/optimized/robot/rear-1200.webp",
+        "width": 1200,
+        "height": 848,
+        "bytes": 22934
+      },
+      {
+        "src": "/assets/optimized/robot/rear-1900.webp",
+        "width": 1900,
+        "height": 1343,
+        "bytes": 43638
+      }
+    ],
+    "sourceBytes": 113000,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/robot/platform.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/robot/platform-480.webp",
+    "card": "/assets/optimized/robot/platform-800.webp",
+    "full": "/assets/optimized/robot/platform-1900.webp",
+    "srcSet": "/assets/optimized/robot/platform-480.webp 480w, /assets/optimized/robot/platform-800.webp 800w, /assets/optimized/robot/platform-1200.webp 1200w, /assets/optimized/robot/platform-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1900,
+      "height": 1343
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/robot/platform-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 5982
+      },
+      {
+        "src": "/assets/optimized/robot/platform-800.webp",
+        "width": 800,
+        "height": 565,
+        "bytes": 11990
+      },
+      {
+        "src": "/assets/optimized/robot/platform-1200.webp",
+        "width": 1200,
+        "height": 848,
+        "bytes": 21410
+      },
+      {
+        "src": "/assets/optimized/robot/platform-1900.webp",
+        "width": 1900,
+        "height": 1343,
+        "bytes": 42044
+      }
+    ],
+    "sourceBytes": 116599,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/robot/chassis.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/robot/chassis-480.webp",
+    "card": "/assets/optimized/robot/chassis-800.webp",
+    "full": "/assets/optimized/robot/chassis-1900.webp",
+    "srcSet": "/assets/optimized/robot/chassis-480.webp 480w, /assets/optimized/robot/chassis-800.webp 800w, /assets/optimized/robot/chassis-1200.webp 1200w, /assets/optimized/robot/chassis-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1900,
+      "height": 1343
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/robot/chassis-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 9260
+      },
+      {
+        "src": "/assets/optimized/robot/chassis-800.webp",
+        "width": 800,
+        "height": 565,
+        "bytes": 19416
+      },
+      {
+        "src": "/assets/optimized/robot/chassis-1200.webp",
+        "width": 1200,
+        "height": 848,
+        "bytes": 35178
+      },
+      {
+        "src": "/assets/optimized/robot/chassis-1900.webp",
+        "width": 1900,
+        "height": 1343,
+        "bytes": 70166
+      }
+    ],
+    "sourceBytes": 176571,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/robot/cargo.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/robot/cargo-480.webp",
+    "card": "/assets/optimized/robot/cargo-800.webp",
+    "full": "/assets/optimized/robot/cargo-1900.webp",
+    "srcSet": "/assets/optimized/robot/cargo-480.webp 480w, /assets/optimized/robot/cargo-800.webp 800w, /assets/optimized/robot/cargo-1200.webp 1200w, /assets/optimized/robot/cargo-1900.webp 1900w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1900,
+      "height": 1343
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/robot/cargo-480.webp",
+        "width": 480,
+        "height": 339,
+        "bytes": 6002
+      },
+      {
+        "src": "/assets/optimized/robot/cargo-800.webp",
+        "width": 800,
+        "height": 565,
+        "bytes": 11480
+      },
+      {
+        "src": "/assets/optimized/robot/cargo-1200.webp",
+        "width": 1200,
+        "height": 848,
+        "bytes": 19450
+      },
+      {
+        "src": "/assets/optimized/robot/cargo-1900.webp",
+        "width": 1900,
+        "height": 1343,
+        "bytes": 36056
+      }
+    ],
+    "sourceBytes": 100129,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/drone/principle.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/principle-480.webp",
+    "card": "/assets/optimized/drone/principle-800.webp",
+    "full": "/assets/optimized/drone/principle-1831.webp",
+    "srcSet": "/assets/optimized/drone/principle-480.webp 480w, /assets/optimized/drone/principle-800.webp 800w, /assets/optimized/drone/principle-1200.webp 1200w, /assets/optimized/drone/principle-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1831,
+      "height": 979
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/principle-480.webp",
+        "width": 480,
+        "height": 257,
+        "bytes": 25628
+      },
+      {
+        "src": "/assets/optimized/drone/principle-800.webp",
+        "width": 800,
+        "height": 428,
+        "bytes": 52934
+      },
+      {
+        "src": "/assets/optimized/drone/principle-1200.webp",
+        "width": 1200,
+        "height": 642,
+        "bytes": 89922
+      },
+      {
+        "src": "/assets/optimized/drone/principle-1831.webp",
+        "width": 1831,
+        "height": 979,
+        "bytes": 154500
+      }
+    ],
+    "sourceBytes": 301493,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/drone/assembly.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/assembly-480.webp",
+    "card": "/assets/optimized/drone/assembly-800.webp",
+    "full": "/assets/optimized/drone/assembly-915.webp",
+    "srcSet": "/assets/optimized/drone/assembly-480.webp 480w, /assets/optimized/drone/assembly-800.webp 800w, /assets/optimized/drone/assembly-915.webp 915w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 915,
+      "height": 490
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/assembly-480.webp",
+        "width": 480,
+        "height": 257,
+        "bytes": 22778
+      },
+      {
+        "src": "/assets/optimized/drone/assembly-800.webp",
+        "width": 800,
+        "height": 428,
+        "bytes": 47530
+      },
+      {
+        "src": "/assets/optimized/drone/assembly-915.webp",
+        "width": 915,
+        "height": 490,
+        "bytes": 58598
+      }
+    ],
+    "sourceBytes": 103244,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/drone/drawings.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/drawings-480.webp",
+    "card": "/assets/optimized/drone/drawings-800.webp",
+    "full": "/assets/optimized/drone/drawings-1831.webp",
+    "srcSet": "/assets/optimized/drone/drawings-480.webp 480w, /assets/optimized/drone/drawings-800.webp 800w, /assets/optimized/drone/drawings-1200.webp 1200w, /assets/optimized/drone/drawings-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1831,
+      "height": 979
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/drawings-480.webp",
+        "width": 480,
+        "height": 257,
+        "bytes": 11952
+      },
+      {
+        "src": "/assets/optimized/drone/drawings-800.webp",
+        "width": 800,
+        "height": 428,
+        "bytes": 26996
+      },
+      {
+        "src": "/assets/optimized/drone/drawings-1200.webp",
+        "width": 1200,
+        "height": 642,
+        "bytes": 51046
+      },
+      {
+        "src": "/assets/optimized/drone/drawings-1831.webp",
+        "width": 1831,
+        "height": 979,
+        "bytes": 94394
+      }
+    ],
+    "sourceBytes": 200982,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/drone/analysis.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/analysis-480.webp",
+    "card": "/assets/optimized/drone/analysis-800.webp",
+    "full": "/assets/optimized/drone/analysis-915.webp",
+    "srcSet": "/assets/optimized/drone/analysis-480.webp 480w, /assets/optimized/drone/analysis-800.webp 800w, /assets/optimized/drone/analysis-915.webp 915w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 915,
+      "height": 489
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/analysis-480.webp",
+        "width": 480,
+        "height": 257,
+        "bytes": 26688
+      },
+      {
+        "src": "/assets/optimized/drone/analysis-800.webp",
+        "width": 800,
+        "height": 428,
+        "bytes": 54544
+      },
+      {
+        "src": "/assets/optimized/drone/analysis-915.webp",
+        "width": 915,
+        "height": 489,
+        "bytes": 67914
+      }
+    ],
+    "sourceBytes": 124599,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/drone/soft-grip.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/drone/soft-grip-480.webp",
+    "card": "/assets/optimized/drone/soft-grip-800.webp",
+    "full": "/assets/optimized/drone/soft-grip-1831.webp",
+    "srcSet": "/assets/optimized/drone/soft-grip-480.webp 480w, /assets/optimized/drone/soft-grip-800.webp 800w, /assets/optimized/drone/soft-grip-1200.webp 1200w, /assets/optimized/drone/soft-grip-1831.webp 1831w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1831,
+      "height": 979
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/drone/soft-grip-480.webp",
+        "width": 480,
+        "height": 257,
+        "bytes": 19740
+      },
+      {
+        "src": "/assets/optimized/drone/soft-grip-800.webp",
+        "width": 800,
+        "height": 428,
+        "bytes": 41576
+      },
+      {
+        "src": "/assets/optimized/drone/soft-grip-1200.webp",
+        "width": 1200,
+        "height": 642,
+        "bytes": 70434
+      },
+      {
+        "src": "/assets/optimized/drone/soft-grip-1831.webp",
+        "width": 1831,
+        "height": 979,
+        "bytes": 117524
+      }
+    ],
+    "sourceBytes": 244226,
+    "roles": [
+      "project-detail"
+    ]
+  },
+  "/assets/interstellar.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/interstellar-800.webp",
+    "card": "/assets/optimized/interstellar-800.webp",
+    "full": "/assets/optimized/interstellar-1600.webp",
+    "srcSet": "/assets/optimized/interstellar-800.webp 800w, /assets/optimized/interstellar-1200.webp 1200w, /assets/optimized/interstellar-1600.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "100vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1600,
+      "height": 900
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/interstellar-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 28580
+      },
+      {
+        "src": "/assets/optimized/interstellar-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 47462
+      },
+      {
+        "src": "/assets/optimized/interstellar-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 67544
+      }
+    ],
+    "sourceBytes": 97686,
+    "roles": [
+      "hero-poster"
+    ]
+  },
+  "/assets/portrait.jpg": {
+    "type": "image",
+    "thumb": "/assets/optimized/portrait-320.webp",
+    "card": "/assets/optimized/portrait-800.webp",
+    "full": "/assets/optimized/portrait-814.webp",
+    "srcSet": "/assets/optimized/portrait-320.webp 320w, /assets/optimized/portrait-480.webp 480w, /assets/optimized/portrait-800.webp 800w, /assets/optimized/portrait-814.webp 814w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) calc(100vw - 40px), (max-width: 1150px) 46vw, (min-width: 1800px) 549px, 32vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 814,
+      "height": 1086
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/portrait-320.webp",
+        "width": 320,
+        "height": 427,
+        "bytes": 8206
+      },
+      {
+        "src": "/assets/optimized/portrait-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 15140
+      },
+      {
+        "src": "/assets/optimized/portrait-800.webp",
+        "width": 800,
+        "height": 1067,
+        "bytes": 33802
+      },
+      {
+        "src": "/assets/optimized/portrait-814.webp",
+        "width": 814,
+        "height": 1086,
+        "bytes": 35706
+      }
+    ],
+    "sourceBytes": 84827,
+    "roles": [
+      "portrait"
+    ]
+  },
+  "/assets/software/zh-creo.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-creo-480.webp",
+    "card": "/assets/optimized/software/zh-creo-800.webp",
+    "full": "/assets/software/zh-creo.webp",
+    "srcSet": "/assets/optimized/software/zh-creo-480.webp 480w, /assets/optimized/software/zh-creo-800.webp 800w, /assets/optimized/software/zh-creo-1200.webp 1200w, /assets/software/zh-creo.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-creo-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 26852
+      },
+      {
+        "src": "/assets/optimized/software/zh-creo-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 57390
+      },
+      {
+        "src": "/assets/optimized/software/zh-creo-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 104010
+      },
+      {
+        "src": "/assets/software/zh-creo.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 114488
+      }
+    ],
+    "sourceBytes": 114488,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-catia.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-catia-480.webp",
+    "card": "/assets/optimized/software/zh-catia-800.webp",
+    "full": "/assets/software/zh-catia.webp",
+    "srcSet": "/assets/optimized/software/zh-catia-480.webp 480w, /assets/optimized/software/zh-catia-800.webp 800w, /assets/software/zh-catia.webp 1912w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1912,
+      "height": 1080
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-catia-480.webp",
+        "width": 480,
+        "height": 271,
+        "bytes": 34358
+      },
+      {
+        "src": "/assets/optimized/software/zh-catia-800.webp",
+        "width": 800,
+        "height": 452,
+        "bytes": 70680
+      },
+      {
+        "src": "/assets/software/zh-catia.webp",
+        "width": 1912,
+        "height": 1080,
+        "bytes": 117940
+      }
+    ],
+    "sourceBytes": 117940,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/clean-zh-nx.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/clean-zh-nx-480.webp",
+    "card": "/assets/optimized/software/clean-zh-nx-800.webp",
+    "full": "/assets/software/clean-zh-nx.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-nx-480.webp 480w, /assets/optimized/software/clean-zh-nx-800.webp 800w, /assets/software/clean-zh-nx.webp 1159w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1159,
+      "height": 954
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/clean-zh-nx-480.webp",
+        "width": 480,
+        "height": 395,
+        "bytes": 19802
+      },
+      {
+        "src": "/assets/optimized/software/clean-zh-nx-800.webp",
+        "width": 800,
+        "height": 658,
+        "bytes": 41222
+      },
+      {
+        "src": "/assets/software/clean-zh-nx.webp",
+        "width": 1159,
+        "height": 954,
+        "bytes": 77878
+      }
+    ],
+    "sourceBytes": 77878,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/clean-zh-matlab.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/clean-zh-matlab-480.webp",
+    "card": "/assets/optimized/software/clean-zh-matlab-800.webp",
+    "full": "/assets/software/clean-zh-matlab.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-matlab-480.webp 480w, /assets/optimized/software/clean-zh-matlab-800.webp 800w, /assets/optimized/software/clean-zh-matlab-1200.webp 1200w, /assets/software/clean-zh-matlab.webp 1780w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1780,
+      "height": 1366
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/clean-zh-matlab-480.webp",
+        "width": 480,
+        "height": 368,
+        "bytes": 28082
+      },
+      {
+        "src": "/assets/optimized/software/clean-zh-matlab-800.webp",
+        "width": 800,
+        "height": 614,
+        "bytes": 62436
+      },
+      {
+        "src": "/assets/optimized/software/clean-zh-matlab-1200.webp",
+        "width": 1200,
+        "height": 921,
+        "bytes": 109560
+      },
+      {
+        "src": "/assets/software/clean-zh-matlab.webp",
+        "width": 1780,
+        "height": 1366,
+        "bytes": 158622
+      }
+    ],
+    "sourceBytes": 158622,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/clean-zh-origin.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/clean-zh-origin-480.webp",
+    "card": "/assets/software/clean-zh-origin.webp",
+    "full": "/assets/software/clean-zh-origin.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-origin-480.webp 480w, /assets/software/clean-zh-origin.webp 680w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 680,
+      "height": 459
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/clean-zh-origin-480.webp",
+        "width": 480,
+        "height": 324,
+        "bytes": 19522
+      },
+      {
+        "src": "/assets/software/clean-zh-origin.webp",
+        "width": 680,
+        "height": 459,
+        "bytes": 31212
+      }
+    ],
+    "sourceBytes": 31212,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/clean-zh-python.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/clean-zh-python-480.webp",
+    "card": "/assets/optimized/software/clean-zh-python-800.webp",
+    "full": "/assets/software/clean-zh-python.webp",
+    "srcSet": "/assets/optimized/software/clean-zh-python-480.webp 480w, /assets/optimized/software/clean-zh-python-800.webp 800w, /assets/software/clean-zh-python.webp 1205w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1205,
+      "height": 799
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/clean-zh-python-480.webp",
+        "width": 480,
+        "height": 318,
+        "bytes": 12196
+      },
+      {
+        "src": "/assets/optimized/software/clean-zh-python-800.webp",
+        "width": 800,
+        "height": 530,
+        "bytes": 26434
+      },
+      {
+        "src": "/assets/software/clean-zh-python.webp",
+        "width": 1205,
+        "height": 799,
+        "bytes": 46556
+      }
+    ],
+    "sourceBytes": 46556,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-html.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-html-480.webp",
+    "card": "/assets/optimized/software/zh-html-800.webp",
+    "full": "/assets/software/zh-html.webp",
+    "srcSet": "/assets/optimized/software/zh-html-480.webp 480w, /assets/optimized/software/zh-html-800.webp 800w, /assets/optimized/software/zh-html-1200.webp 1200w, /assets/software/zh-html.webp 1800w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1800,
+      "height": 943
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-html-480.webp",
+        "width": 480,
+        "height": 251,
+        "bytes": 14646
+      },
+      {
+        "src": "/assets/optimized/software/zh-html-800.webp",
+        "width": 800,
+        "height": 419,
+        "bytes": 30052
+      },
+      {
+        "src": "/assets/optimized/software/zh-html-1200.webp",
+        "width": 1200,
+        "height": 629,
+        "bytes": 51668
+      },
+      {
+        "src": "/assets/software/zh-html.webp",
+        "width": 1800,
+        "height": 943,
+        "bytes": 72432
+      }
+    ],
+    "sourceBytes": 72432,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-capcut.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-capcut-480.webp",
+    "card": "/assets/optimized/software/zh-capcut-800.webp",
+    "full": "/assets/software/zh-capcut.webp",
+    "srcSet": "/assets/optimized/software/zh-capcut-480.webp 480w, /assets/optimized/software/zh-capcut-800.webp 800w, /assets/optimized/software/zh-capcut-1200.webp 1200w, /assets/software/zh-capcut.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1920,
+      "height": 1048
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-capcut-480.webp",
+        "width": 480,
+        "height": 262,
+        "bytes": 19260
+      },
+      {
+        "src": "/assets/optimized/software/zh-capcut-800.webp",
+        "width": 800,
+        "height": 437,
+        "bytes": 42734
+      },
+      {
+        "src": "/assets/optimized/software/zh-capcut-1200.webp",
+        "width": 1200,
+        "height": 655,
+        "bytes": 73476
+      },
+      {
+        "src": "/assets/software/zh-capcut.webp",
+        "width": 1920,
+        "height": 1048,
+        "bytes": 121466
+      }
+    ],
+    "sourceBytes": 121466,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-visio.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-visio-480.webp",
+    "card": "/assets/optimized/software/zh-visio-800.webp",
+    "full": "/assets/software/zh-visio.webp",
+    "srcSet": "/assets/optimized/software/zh-visio-480.webp 480w, /assets/optimized/software/zh-visio-800.webp 800w, /assets/optimized/software/zh-visio-1200.webp 1200w, /assets/software/zh-visio.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-visio-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 19472
+      },
+      {
+        "src": "/assets/optimized/software/zh-visio-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 38552
+      },
+      {
+        "src": "/assets/optimized/software/zh-visio-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 65558
+      },
+      {
+        "src": "/assets/software/zh-visio.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 112282
+      }
+    ],
+    "sourceBytes": 112282,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-office.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-office-480.webp",
+    "card": "/assets/optimized/software/zh-office-800.webp",
+    "full": "/assets/software/zh-office.webp",
+    "srcSet": "/assets/optimized/software/zh-office-480.webp 480w, /assets/optimized/software/zh-office-800.webp 800w, /assets/optimized/software/zh-office-1200.webp 1200w, /assets/software/zh-office.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1600,
+      "height": 860
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-office-480.webp",
+        "width": 480,
+        "height": 258,
+        "bytes": 19178
+      },
+      {
+        "src": "/assets/optimized/software/zh-office-800.webp",
+        "width": 800,
+        "height": 430,
+        "bytes": 36604
+      },
+      {
+        "src": "/assets/optimized/software/zh-office-1200.webp",
+        "width": 1200,
+        "height": 645,
+        "bytes": 60986
+      },
+      {
+        "src": "/assets/software/zh-office.webp",
+        "width": 1600,
+        "height": 860,
+        "bytes": 75528
+      }
+    ],
+    "sourceBytes": 75528,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-photoshop.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-photoshop-480.webp",
+    "card": "/assets/optimized/software/zh-photoshop-800.webp",
+    "full": "/assets/software/zh-photoshop.webp",
+    "srcSet": "/assets/optimized/software/zh-photoshop-480.webp 480w, /assets/optimized/software/zh-photoshop-800.webp 800w, /assets/optimized/software/zh-photoshop-1200.webp 1200w, /assets/software/zh-photoshop.webp 2000w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 2000,
+      "height": 926
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-photoshop-480.webp",
+        "width": 480,
+        "height": 222,
+        "bytes": 12758
+      },
+      {
+        "src": "/assets/optimized/software/zh-photoshop-800.webp",
+        "width": 800,
+        "height": 370,
+        "bytes": 25956
+      },
+      {
+        "src": "/assets/optimized/software/zh-photoshop-1200.webp",
+        "width": 1200,
+        "height": 556,
+        "bytes": 44904
+      },
+      {
+        "src": "/assets/software/zh-photoshop.webp",
+        "width": 2000,
+        "height": 926,
+        "bytes": 71740
+      }
+    ],
+    "sourceBytes": 71740,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-solidworks.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-solidworks-480.webp",
+    "card": "/assets/optimized/software/zh-solidworks-800.webp",
+    "full": "/assets/software/zh-solidworks.webp",
+    "srcSet": "/assets/optimized/software/zh-solidworks-480.webp 480w, /assets/optimized/software/zh-solidworks-800.webp 800w, /assets/optimized/software/zh-solidworks-1200.webp 1200w, /assets/software/zh-solidworks.webp 1920w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-solidworks-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 19842
+      },
+      {
+        "src": "/assets/optimized/software/zh-solidworks-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 43664
+      },
+      {
+        "src": "/assets/optimized/software/zh-solidworks-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 76728
+      },
+      {
+        "src": "/assets/software/zh-solidworks.webp",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 85538
+      }
+    ],
+    "sourceBytes": 85538,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/zh-autocad.webp": {
+    "type": "image",
+    "thumb": "/assets/optimized/software/zh-autocad-480.webp",
+    "card": "/assets/optimized/software/zh-autocad-800.webp",
+    "full": "/assets/software/zh-autocad.webp",
+    "srcSet": "/assets/optimized/software/zh-autocad-480.webp 480w, /assets/optimized/software/zh-autocad-800.webp 800w, /assets/software/zh-autocad.webp 1600w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 1600,
+      "height": 900
+    },
+    "variants": [
+      {
+        "src": "/assets/optimized/software/zh-autocad-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 22060
+      },
+      {
+        "src": "/assets/optimized/software/zh-autocad-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 45618
+      },
+      {
+        "src": "/assets/software/zh-autocad.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 72006
+      }
+    ],
+    "sourceBytes": 72006,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/software/real-user-ansys.webp": {
+    "type": "image",
+    "thumb": "/assets/software/real-user-ansys.webp",
+    "card": "/assets/software/real-user-ansys.webp",
+    "full": "/assets/software/real-user-ansys.webp",
+    "srcSet": "/assets/software/real-user-ansys.webp 382w",
+    "sizes": {
+      "reel": "(max-width: 1148px) 155px, (min-width: 1704px) 230px, 13.5vw",
+      "card": "(max-width: 760px) 46vw, (max-width: 1150px) 30vw, (min-width: 1800px) 409px, 23vw",
+      "filteredCard": "(max-width: 760px) calc(100vw - 40px), (min-width: 1800px) 837px, 48vw",
+      "detail": "(max-width: 760px) calc(100vw - 44px), 1000px"
+    },
+    "dimensions": {
+      "width": 382,
+      "height": 263
+    },
+    "variants": [
+      {
+        "src": "/assets/software/real-user-ansys.webp",
+        "width": 382,
+        "height": 263,
+        "bytes": 29384
+      }
+    ],
+    "sourceBytes": 29384,
+    "roles": [
+      "software-screenshot"
+    ]
+  },
+  "/assets/interstellar-loop.mp4": {
+    "type": "video",
+    "src": "/assets/optimized/interstellar-loop-1280-crf28.mp4",
+    "bytes": 583775,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "duration": 16.0,
+    "crf": 28,
+    "audio": false,
+    "faststart": true,
+    "sourceBytes": 2261672,
+    "poster": "/assets/optimized/interstellar-1600.webp",
+    "candidates": [
+      {
+        "src": "/assets/optimized/interstellar-loop-1280-crf28.mp4",
+        "bytes": 583775,
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 16.0,
+        "crf": 28,
+        "audio": false,
+        "faststart": true
+      },
+      {
+        "src": "/assets/optimized/interstellar-loop-1280-crf30.mp4",
+        "bytes": 457697,
+        "width": 1280,
+        "height": 720,
+        "fps": 24,
+        "duration": 16.0,
+        "crf": 30,
+        "audio": false,
+        "faststart": true
+      }
+    ]
+  }
+}

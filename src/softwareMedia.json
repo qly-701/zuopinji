@@ -1,0 +1,113 @@
+{
+  "creo": {
+    "image": "/assets/software/zh-creo.webp",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "imageAlt": "Creo中文教学参考：机械基座模型、中文功能区与模型树",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "catia": {
+    "image": "/assets/software/zh-catia.webp",
+    "imageWidth": 1912,
+    "imageHeight": 1080,
+    "imageAlt": "CATIA中文教学参考：汽车门板加强结构设计、中文菜单与特征树",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "nx": {
+    "image": "/assets/software/clean-zh-nx.webp",
+    "imageWidth": 1159,
+    "imageHeight": 954,
+    "imageAlt": "UG/NX中文操作界面：拉伸参数对话框与带台阶孔的实体零件",
+    "imageLanguage": "zh-CN",
+    "mediaType": "tutorial"
+  },
+  "matlab": {
+    "image": "/assets/software/clean-zh-matlab.webp",
+    "imageWidth": 1780,
+    "imageHeight": 1366,
+    "imageAlt": "MATLAB 中文界面：编辑脚本、工作区变量与命令行窗口",
+    "imageLanguage": "zh-CN",
+    "mediaType": "tutorial"
+  },
+  "origin": {
+    "image": "/assets/software/clean-zh-origin.webp",
+    "imageWidth": 680,
+    "imageHeight": 459,
+    "imageAlt": "OriginPro中文操作界面，工作表数据与折线散点图并排显示",
+    "imageLanguage": "zh-CN",
+    "mediaType": "tutorial"
+  },
+  "python": {
+    "image": "/assets/software/clean-zh-python.webp",
+    "imageWidth": 1205,
+    "imageHeight": 799,
+    "imageAlt": "真实中文VSCode界面中编辑并运行Python脚本，终端显示Hello World输出",
+    "imageLanguage": "zh-CN",
+    "mediaType": "tutorial"
+  },
+  "html": {
+    "image": "/assets/software/zh-html.webp",
+    "imageWidth": 1800,
+    "imageHeight": 943,
+    "imageAlt": "HTML中文教程截图：VS Code中的中文注释与浏览器预览",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "capcut": {
+    "image": "/assets/software/zh-capcut.webp",
+    "imageWidth": 1920,
+    "imageHeight": 1048,
+    "imageAlt": "剪映专业版中文功能区及媒体素材、播放器、属性调节和时间轴面板",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "visio": {
+    "image": "/assets/software/zh-visio.webp",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "imageAlt": "Visio 中文功能区、基本形状面板与图形编辑界面",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "office": {
+    "image": "/assets/software/zh-office.webp",
+    "imageWidth": 1600,
+    "imageHeight": 860,
+    "imageAlt": "Excel 中文功能区、大学预算工作表和数据图表界面",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "photoshop": {
+    "image": "/assets/software/zh-photoshop.webp",
+    "imageWidth": 2000,
+    "imageHeight": 926,
+    "imageAlt": "Photoshop 中文菜单与菜单栏、工具箱、图像窗口及控制面板原教材标注图",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "solidworks": {
+    "image": "/assets/software/zh-solidworks.webp",
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "imageAlt": "SolidWorks中文教学界面：机械臂D轴支架零件、中文特征工具栏和设计树",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "autocad": {
+    "image": "/assets/software/zh-autocad.webp",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageAlt": "AutoCAD中文教学界面：二维零件轮廓、完整尺寸及中文绘图修改标注功能区",
+    "mediaType": "tutorial",
+    "imageLanguage": "zh-CN"
+  },
+  "ansys": {
+    "image": "/assets/software/real-user-ansys.webp",
+    "imageWidth": 382,
+    "imageHeight": 263,
+    "imageAlt": "无人机抓取机构项目中的 ANSYS 有限元网格与仿真结果原图",
+    "mediaType": "project"
+  }
+}

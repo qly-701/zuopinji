@@ -1,0 +1,27 @@
+图像署名与许可
+以下图像用于软件使用界面展示。网页缩略图作等比缩小，放大查看时保留原始图像。
+
+NX
+UG如何直接使用实体的面进行拉伸 — UG爱好者论坛；作者补充的实际拉伸效果图
+https://www.ugsnx.com/thread-354024-1-1.html
+格式转换为WebP，保留原图内容与品牌标识。
+
+PYTHON
+全程图文！保姆级带你入坑python — xundei’s blog
+https://xundei.qzz.io/articles/2
+格式转换为WebP，保留原图内容与品牌标识。
+
+MATLAB
+slandarer · MATLAB | R2025a 更新了哪些有趣的东西？
+https://blog.csdn.net/slandarer/article/details/147996406
+作者：slandarer
+许可：CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+仅转换为 WebP，保留完整界面，无裁切、涂抹或重绘。
+
+ORIGIN
+Origin中文网站 · Origin怎么标注特殊点的数据
+https://www.origincn.com.cn/jiaocheng/origin-chdiiwo.html
+作者：北京的春天
+仅转换为 WebP，保留完整截图，无裁切、涂抹或重绘。
+
